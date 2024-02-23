@@ -1,5 +1,13 @@
-### Hi there 👋
+👋 Hello world! I'm Meg Burt, a data analyst with 6 years of experience. I currently work for the University of Michigan, researching policing and conflict. 
 
+🛠️ My toolbox includes:
+  * A/B (hypothesis) testing, statistical modeling such as time-to-event modeling.
+  * SQL
+  * R
+  * Python
+  * Data visualization: Tableau, Microsoft Power BI, ggplot2
+
+❄️ I'm based in Michigan and Illinois, USA!
 <!--
 **megburt02/megburt02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
